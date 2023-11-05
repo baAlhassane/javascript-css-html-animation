@@ -1,0 +1,2 @@
+This project hold to five javascript projects with animation properties in javascript and demontrations.
+-The first project is the Blurry Loading image demonstration. with the css filter: blur(0px) and opacity properties to blur the immage dowload. 
